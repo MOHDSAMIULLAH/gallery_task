@@ -27,7 +27,7 @@ This project is a responsive image gallery built with React.js and Tailwind CSS,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-gallery.git
+   git clone https://github.com/MOHDSAMIULLAH/gallery_task.git
    cd image-gallery
    ```
 
