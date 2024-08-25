@@ -5,7 +5,7 @@ import logo from "../assets/text-in-horizontal-lines-9352ld.png"
 
 const Gallery = () => {
   const [images, setImages] = useState([]);
-  const [page, setPage] = useState(4);
+  const [page, setPage] = useState(7);
     console.log("images",images );
     
   useEffect(() => {

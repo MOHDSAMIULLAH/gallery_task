@@ -3,6 +3,8 @@
 
 This project is a responsive image gallery built with React.js and Tailwind CSS, utilizing a Masonry layout for a dynamic, grid-like display. The images are fetched from the [Picsum API](https://picsum.photos/) and include pagination features, allowing users to load more images seamlessly.
 
+## Deployed Link: https://gallery-task-psi.vercel.app/
+
 ## Features
 
 - **Responsive Design**: The gallery is fully responsive, adapting to various screen sizes using Tailwind CSS and Masonry layout.
